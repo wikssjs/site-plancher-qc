@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /devis-plancher/
+
+Sitemap: https://soumission-plancher.ca/sitemap-index.xml
